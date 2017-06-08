@@ -1,0 +1,6 @@
+@article{Plappert17Parameter,
+author = {Matthias, Plappert and Rein, Houthooft and Prafulla, Dhariwal and Szymon, Sidor and Richard Y., Chen and Xi, Chen and Tamim, Asfour and Pieter, Abbeel and Marcin, Andrychowicz},
+title = {Parameter Space Noise for Exploration},
+journal={arXiv preprint arXiv:1706.01905},
+year = {2017}
+}
