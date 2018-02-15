@@ -1,0 +1,6 @@
+@article{Houthooft18Evolved,
+author = {Houthooft, Rein and Chen, Richard Y. and Isola, Phillip and Wolski, Filip and Ho, Jonathan and Abbeel, Pieter},
+title = {Evolved Policy Gradients},
+journal={arXiv preprint arXiv:1706.01905},
+year = {2018}
+}
