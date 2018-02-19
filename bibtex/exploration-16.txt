@@ -1,6 +1,6 @@
 @article{Tang2017Exploration,
 author = {Tang, Haoran and Houthooft, Rein and Foote, Davis and Stooke, Adam and Chen, Xi and Duan, Yan and Schulman, John and De Turck, Filip and Abbeel, Pieter},
-title = {\#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning},
+title = {\#{E}xploration: A Study of Count-Based Exploration for Deep Reinforcement Learning},
 journal={Advances in Neural Information Processing Systems (NIPS)},
 year = {2017}
 }
