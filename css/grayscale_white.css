@@ -92,6 +92,7 @@ th {
 		padding-top: 4px;
 		padding-bottom: 4px;
 		width:100%;
+		text-align: left;
 	}
 
 	th.entry {
@@ -99,6 +100,7 @@ th {
 		padding-top:9px;
 		padding-right:9px;
 		padding-bottom:9px;
+		text-align: left;
 	}
 
 }
