@@ -1,6 +1,6 @@
 @article{Stadie18Some,
 author = {Stadie, B. C., Yang, G., Houthooft, R., Chen, X., Duan, Y., Yuhuai, W., Abbeel, P., Sutskever, I.},
-title = {	Some Considerations on Learning to Explore via Meta-Reinforcement Learning},
-journal={arXiv preprint arXiv:?},
+title = {Some Considerations on Learning to Explore via Meta-Reinforcement Learning},
+journal={arXiv preprint arXiv:1803.01118},
 year = {2018}
 }
